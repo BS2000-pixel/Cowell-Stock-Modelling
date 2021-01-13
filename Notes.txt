@@ -1,0 +1,8 @@
+Cowell Stock Modelling
+
+Time Series Analysis has a lot of applications which will be useful if used 
+properly. There are quite a number of types of Time Series, in this case it is
+Heteroscedasticity Time Series. We will use this type of Time Series to create a
+model that can predict future values of Cowell Stock.
+
+**codes and the poster are attached in the repository
